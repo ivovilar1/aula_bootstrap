@@ -1,0 +1,29 @@
+body{
+    font: 20px, Arial, sans-serif;
+}
+
+.navbar{
+    background-color: thistle;
+}
+
+.quem-somos{
+    background-color: gray;
+    color: lawngreen;
+}
+
+margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: orchid;
+}
+.serviços{
+    background-color: peru;
+}
+
+.bg--footer{
+    background-color: black;
+    color:red
+}
